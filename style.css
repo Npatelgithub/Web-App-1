@@ -1,0 +1,23 @@
+.heading{
+    width: 100%;
+    font-size: 25px;
+    color: fuchsia;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+}
+ 
+.model_trained{
+    float: none;
+    box-shadow: 5px 5px 5px grey;
+    background-color: white;
+    color: black;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.heading2{
+    font-size: 18px;
+}
